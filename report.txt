@@ -1,0 +1,21 @@
+Question 1: When the dice was rolled only 10 times the fraction of times it rolled a specific number was more pronounced. 
+This meant that the distribution wasn't as even as it should have been (1/6 for each number on the die). When the 
+amount of rolls became higher the distribution of times each number was rolled became about even (1/6 for each).
+
+
+Question 2: The even split between low and high numbers was about 3 percent. That is very suprising because one would expect
+it to be about 50 percent since there is an even split of numbers between 1-3 and 4-6.
+
+Question3: The distribution that I see is that one is less likely to roll very low or high sums while one is very likely
+to roll middle sums. This is most due to the fact that there are more combinations of numbers that result in the middle 
+numbers while there are less combinations of numbers that result in the upper or lower numbers. Thus,
+the sum values execute a bell-curve more or less.
+
+Question 4: I would stand on the value of 19 because the probability of busting is about 5 percent. Thus, it is the value 
+with the highest ratio of not busting while still having a high value to beat the dealer. After 19, the probabilities of 
+busting become much higher.
+
+Question 5: The probability of beating the dealer given this counting algorithm is between 35-40 percent. Whenever the 
+stand value is increased, the probability of guessing right also increasing. Thus, I can use this counting alogrithm to 
+stand at very high values and possibly win at blackjack. LETS GO TO THE CASINO BOYS. DADDY NEEDS A NEW PAIR OF SHOES!
+
